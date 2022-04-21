@@ -1,0 +1,12 @@
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\TeacherProject\obj\Debug\netcoreapp3.1\TeacherProject.AssemblyInfoInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\TeacherProject\obj\Debug\netcoreapp3.1\TeacherProject.AssemblyInfo.cs
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\TeacherProject\obj\Debug\netcoreapp3.1\TeacherProject.csproj.CoreCompileInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\TeacherProject\bin\Debug\netcoreapp3.1\TeacherProject.exe
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\TeacherProject\bin\Debug\netcoreapp3.1\TeacherProject.deps.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\TeacherProject\bin\Debug\netcoreapp3.1\TeacherProject.runtimeconfig.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\TeacherProject\bin\Debug\netcoreapp3.1\TeacherProject.runtimeconfig.dev.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\TeacherProject\bin\Debug\netcoreapp3.1\TeacherProject.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\TeacherProject\bin\Debug\netcoreapp3.1\TeacherProject.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\TeacherProject\obj\Debug\netcoreapp3.1\TeacherProject.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\TeacherProject\obj\Debug\netcoreapp3.1\TeacherProject.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\TeacherProject\obj\Debug\netcoreapp3.1\TeacherProject.genruntimeconfig.cache

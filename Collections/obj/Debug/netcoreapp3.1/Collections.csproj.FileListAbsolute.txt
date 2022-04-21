@@ -1,0 +1,13 @@
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Collections\obj\Debug\netcoreapp3.1\Collections.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Matematik\bin\Debug\netcoreapp3.1\Matematik.exe
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Matematik\bin\Debug\netcoreapp3.1\Matematik.deps.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.dev.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Matematik\bin\Debug\netcoreapp3.1\Matematik.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Matematik\bin\Debug\netcoreapp3.1\Matematik.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Matematik\obj\Debug\netcoreapp3.1\Matematik.csprojAssemblyReference.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfoInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfo.cs
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.CoreCompileInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Matematik\obj\Debug\netcoreapp3.1\Matematik.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Matematik\obj\Debug\netcoreapp3.1\Matematik.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Matematik\obj\Debug\netcoreapp3.1\Matematik.genruntimeconfig.cache

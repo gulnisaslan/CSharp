@@ -1,0 +1,13 @@
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csprojAssemblyReference.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.CoreCompileInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.genruntimeconfig.cache

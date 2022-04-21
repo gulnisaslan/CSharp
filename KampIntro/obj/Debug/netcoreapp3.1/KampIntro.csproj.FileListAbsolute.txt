@@ -1,0 +1,13 @@
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csprojAssemblyReference.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfoInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfo.cs
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csproj.CoreCompileInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.exe
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.deps.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.dev.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\ValueAndReferanceType\bin\Debug\netcoreapp3.1\ValueAndReferanceType.exe
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\ValueAndReferanceType\bin\Debug\netcoreapp3.1\ValueAndReferanceType.deps.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\ValueAndReferanceType\bin\Debug\netcoreapp3.1\ValueAndReferanceType.runtimeconfig.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\ValueAndReferanceType\bin\Debug\netcoreapp3.1\ValueAndReferanceType.runtimeconfig.dev.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\ValueAndReferanceType\bin\Debug\netcoreapp3.1\ValueAndReferanceType.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\ValueAndReferanceType\bin\Debug\netcoreapp3.1\ValueAndReferanceType.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\ValueAndReferanceType\obj\Debug\netcoreapp3.1\ValueAndReferanceType.AssemblyInfoInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\ValueAndReferanceType\obj\Debug\netcoreapp3.1\ValueAndReferanceType.AssemblyInfo.cs
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\ValueAndReferanceType\obj\Debug\netcoreapp3.1\ValueAndReferanceType.csproj.CoreCompileInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\ValueAndReferanceType\obj\Debug\netcoreapp3.1\ValueAndReferanceType.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\ValueAndReferanceType\obj\Debug\netcoreapp3.1\ValueAndReferanceType.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\ValueAndReferanceType\obj\Debug\netcoreapp3.1\ValueAndReferanceType.genruntimeconfig.cache

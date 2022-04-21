@@ -1,0 +1,12 @@
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsHomework_MyDictonary\bin\Debug\netcoreapp3.1\GenericsHomework_MyDictionary.exe
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsHomework_MyDictonary\bin\Debug\netcoreapp3.1\GenericsHomework_MyDictionary.deps.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsHomework_MyDictonary\bin\Debug\netcoreapp3.1\GenericsHomework_MyDictionary.runtimeconfig.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsHomework_MyDictonary\bin\Debug\netcoreapp3.1\GenericsHomework_MyDictionary.runtimeconfig.dev.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsHomework_MyDictonary\bin\Debug\netcoreapp3.1\GenericsHomework_MyDictionary.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsHomework_MyDictonary\bin\Debug\netcoreapp3.1\GenericsHomework_MyDictionary.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsHomework_MyDictonary\obj\Debug\netcoreapp3.1\GenericsHomework_MyDictionary.AssemblyInfoInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsHomework_MyDictonary\obj\Debug\netcoreapp3.1\GenericsHomework_MyDictionary.AssemblyInfo.cs
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsHomework_MyDictonary\obj\Debug\netcoreapp3.1\GenericsHomework_MyDictionary.csproj.CoreCompileInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsHomework_MyDictonary\obj\Debug\netcoreapp3.1\GenericsHomework_MyDictionary.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsHomework_MyDictonary\obj\Debug\netcoreapp3.1\GenericsHomework_MyDictionary.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\GenericsHomework_MyDictonary\obj\Debug\netcoreapp3.1\GenericsHomework_MyDictionary.genruntimeconfig.cache

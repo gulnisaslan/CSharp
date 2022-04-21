@@ -1,0 +1,12 @@
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\C#___\AbstractInterfaceDemo\bin\Debug\netcoreapp3.1\AbstractInterfaceDemo.exe
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\C#___\AbstractInterfaceDemo\bin\Debug\netcoreapp3.1\AbstractInterfaceDemo.deps.json
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\C#___\AbstractInterfaceDemo\bin\Debug\netcoreapp3.1\AbstractInterfaceDemo.runtimeconfig.json
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\C#___\AbstractInterfaceDemo\bin\Debug\netcoreapp3.1\AbstractInterfaceDemo.runtimeconfig.dev.json
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\C#___\AbstractInterfaceDemo\bin\Debug\netcoreapp3.1\AbstractInterfaceDemo.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\C#___\AbstractInterfaceDemo\bin\Debug\netcoreapp3.1\AbstractInterfaceDemo.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\C#___\AbstractInterfaceDemo\obj\Debug\netcoreapp3.1\AbstractInterfaceDemo.csprojAssemblyReference.cache
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\C#___\AbstractInterfaceDemo\obj\Debug\netcoreapp3.1\AbstractInterfaceDemo.AssemblyInfoInputs.cache
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\C#___\AbstractInterfaceDemo\obj\Debug\netcoreapp3.1\AbstractInterfaceDemo.AssemblyInfo.cs
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\C#___\AbstractInterfaceDemo\obj\Debug\netcoreapp3.1\AbstractInterfaceDemo.csproj.CoreCompileInputs.cache
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\C#___\AbstractInterfaceDemo\obj\Debug\netcoreapp3.1\AbstractInterfaceDemo.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\C#___\AbstractInterfaceDemo\obj\Debug\netcoreapp3.1\AbstractInterfaceDemo.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\C#___\AbstractInterfaceDemo\obj\Debug\netcoreapp3.1\AbstractInterfaceDemo.genruntimeconfig.cache

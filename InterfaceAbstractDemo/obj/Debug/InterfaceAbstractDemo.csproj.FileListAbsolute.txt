@@ -1,0 +1,11 @@
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.csprojAssemblyReference.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.csproj.CoreCompileInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\InterfaceAbstractDemo\bin\Debug\InterfaceAbstractDemo.exe.config
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\InterfaceAbstractDemo\bin\Debug\InterfaceAbstractDemo.exe
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\InterfaceAbstractDemo\bin\Debug\InterfaceAbstractDemo.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.exe
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\C#___\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.csprojAssemblyReference.cache
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\C#___\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.csproj.CoreCompileInputs.cache
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\C#___\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.exe
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\C#___\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.pdb

@@ -1,0 +1,12 @@
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache

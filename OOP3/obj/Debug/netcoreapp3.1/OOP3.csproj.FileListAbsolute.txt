@@ -1,0 +1,12 @@
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\OOP3\bin\Debug\netcoreapp3.1\OOP3.exe
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\OOP3\bin\Debug\netcoreapp3.1\OOP3.deps.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.dev.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\OOP3\bin\Debug\netcoreapp3.1\OOP3.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\OOP3\bin\Debug\netcoreapp3.1\OOP3.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfoInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfo.cs
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\OOP3\obj\Debug\netcoreapp3.1\OOP3.csproj.CoreCompileInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\OOP3\obj\Debug\netcoreapp3.1\OOP3.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\OOP3\obj\Debug\netcoreapp3.1\OOP3.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\C#___\OOP3\obj\Debug\netcoreapp3.1\OOP3.genruntimeconfig.cache
